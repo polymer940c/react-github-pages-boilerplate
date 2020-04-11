@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-github-pages-boilerplate/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-github-pages-boilerplate/static/js/main.403953de.chunk.js",
+    "main.js.map": "/react-github-pages-boilerplate/static/js/main.403953de.chunk.js.map",
+    "runtime-main.js": "/react-github-pages-boilerplate/static/js/runtime-main.2ce31dfa.js",
+    "runtime-main.js.map": "/react-github-pages-boilerplate/static/js/runtime-main.2ce31dfa.js.map",
+    "static/js/2.313b8a54.chunk.js": "/react-github-pages-boilerplate/static/js/2.313b8a54.chunk.js",
+    "static/js/2.313b8a54.chunk.js.map": "/react-github-pages-boilerplate/static/js/2.313b8a54.chunk.js.map",
+    "index.html": "/react-github-pages-boilerplate/index.html",
+    "precache-manifest.bf6bf0f99e2d02f1d8418a0ca44b15fd.js": "/react-github-pages-boilerplate/precache-manifest.bf6bf0f99e2d02f1d8418a0ca44b15fd.js",
+    "service-worker.js": "/react-github-pages-boilerplate/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-github-pages-boilerplate/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.313b8a54.chunk.js.LICENSE.txt": "/react-github-pages-boilerplate/static/js/2.313b8a54.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-github-pages-boilerplate/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce31dfa.js",
+    "static/js/2.313b8a54.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.403953de.chunk.js"
+  ]
+}
